@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ParticleMotion Debug.xcscheme_^#shared#^_</key>
+		<key>ProjectionWarpper Debug.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>ParticleMotion Release.xcscheme_^#shared#^_</key>
+		<key>ProjectionWarpper Release.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
