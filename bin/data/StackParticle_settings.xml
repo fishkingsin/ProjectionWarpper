@@ -1,0 +1,6 @@
+<controls>
+    <SliderFloat_Increasment>
+        <name>Increasment</name>
+        <value>0.38</value>
+    </SliderFloat_Increasment>
+</controls>

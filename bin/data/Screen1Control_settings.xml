@@ -1,0 +1,26 @@
+<controls>
+    <Button_Relaod>
+        <name>Relaod</name>
+        <value>0</value>
+    </Button_Relaod>
+    <Button_Save>
+        <name>Save</name>
+        <value>0</value>
+    </Button_Save>
+    <Button_UP>
+        <name>UP</name>
+        <value>0</value>
+    </Button_UP>
+    <Button_DOWN>
+        <name>DOWN</name>
+        <value>0</value>
+    </Button_DOWN>
+    <Button_LEFT>
+        <name>LEFT</name>
+        <value>0</value>
+    </Button_LEFT>
+    <Button_RIGHT>
+        <name>RIGHT</name>
+        <value>0</value>
+    </Button_RIGHT>
+</controls>

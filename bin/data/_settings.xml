@@ -1,0 +1,10 @@
+<controls>
+    <Toggle_showHelp>
+        <name>showHelp</name>
+        <value>1</value>
+    </Toggle_showHelp>
+    <Toggle_showDraw>
+        <name>showDraw</name>
+        <value>0</value>
+    </Toggle_showDraw>
+</controls>

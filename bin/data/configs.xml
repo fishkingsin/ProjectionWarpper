@@ -1,0 +1,4 @@
+<DATA>
+    <HELP>c: show/hide controls&#10;1: active screen 1&#10;2: active screen 2&#10;0: deactive all screen&#10;a: corner/anchor controls&#10;s: save&#10;d: default&#10;p:preset (last saved)&#10;space: toggle gui&#10;
+    </HELP>
+</DATA>
